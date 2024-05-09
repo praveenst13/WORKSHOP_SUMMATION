@@ -225,8 +225,8 @@ public class MainActivity extends AppCompatActivity {
 </manifest>
 ```
 ## OUTPUT:
+![image](https://github.com/praveenst13/WORKSHOP_SUMMATION/assets/118787793/56d67ca8-158f-4631-8f58-c649c9dfb06a)
 
-![image](https://github.com/praveenst13/WORKSHOP_SUMMATION/assets/118787793/0cad4980-5cd7-4ee7-955d-a35afc946edf)
 
 
 
