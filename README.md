@@ -226,7 +226,8 @@ public class MainActivity extends AppCompatActivity {
 ```
 ## OUTPUT:
 
-![Screenshot (175)](https://github.com/Gchethankumar/WORKSHOP_SUMMATION/assets/118348224/ec055064-259f-44a4-af81-b68830ca5b08)
+![image](https://github.com/praveenst13/WORKSHOP_SUMMATION/assets/118787793/0cad4980-5cd7-4ee7-955d-a35afc946edf)
+
 
 
 ## RESULT:
