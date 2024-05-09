@@ -95,7 +95,7 @@ public class MainActivity extends AppCompatActivity {
 ```
 
 ### activity_main.xml:
-```java
+```xml
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
@@ -195,7 +195,7 @@ public class MainActivity extends AppCompatActivity {
 ```
 
 ### Android Manifest.xml:
-```java
+```xml
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
